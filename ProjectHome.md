@@ -1,0 +1,1 @@
+The purpose of this project is to develop a system for automatic reading of vehicle number plates, implemented as free software (GPL), which may be used for traffic analysis and home automation projects.
